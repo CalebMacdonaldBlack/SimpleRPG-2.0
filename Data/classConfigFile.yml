@@ -1,0 +1,13 @@
+classes:
+  Tank:
+    damageBonus: 0
+    defenceBonus: 5
+  Healer:
+    damageBonus: 2
+    defenceBonus: 2
+  Bard:
+    damageBonus: 2
+    defenceBonus: 2
+  Range:
+    damageBonus: 5
+    defenceBonus: 0

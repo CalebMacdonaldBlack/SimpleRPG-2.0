@@ -1,0 +1,78 @@
+item pool:
+  BOW:
+    class:
+      - DPS
+  IRON_SWORD:
+    name: Iron Sword
+    class:
+      - HEALER
+      - BARD
+  IRON_AXE:
+    name: Iron Axe
+    class:
+      - HEALER
+      - BARD
+  DIAMOND_SWORD:
+    name: Diamond Sword
+    class:
+      - DPS
+  DIAMOND_AXE:
+    name: Diamond Axe
+    class:
+      - DPS
+  GOLD_SWORD:
+    name: Brass Sword
+    class:
+      - TANK
+  GOLD_AXE:
+    name: Brass Axe
+    class:
+      - TANK
+  IRON_HELMET:
+    class:
+      - HEALER
+  IRON_CHESTPLATE:
+    class:
+      - HEALER
+  IRON_BOOTS:
+    class:
+      - HEALER
+  IRON_LEGGINGS:
+    class:
+      - HEALER
+  CHAINMAIL_HELMET:
+    class:
+      - BARD
+  CHAINMAIL_CHESTPLATE:
+    class:
+      - BARD
+  CHAINMAIL_BOOTS:
+    class:
+      - BARD
+  CHAINMAIL_LEGGINGS:
+    class:
+      - BARD
+  LEATHER_HELMET:
+    class:
+      - DPS
+  LEATHER_CHESTPLATE:
+    class:
+      - DPS
+  LEATHER_BOOTS:
+    class:
+      - DPS
+  LEATHER_LEGGINGS:
+    class:
+      - DPS
+  DIAMOND_HELMET:
+    class:
+      - TANK
+  DIAMOND_CHESTPLATE:
+    class:
+      - TANK
+  DIAMOND_BOOTS:
+    class:
+      - TANK
+  DIAMOND_LEGGINGS:
+    class:
+      - TANK

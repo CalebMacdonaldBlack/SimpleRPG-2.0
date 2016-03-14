@@ -1,0 +1,21 @@
+lower pecentage threshold: 0.20
+upper pecentage threshold: 0.10
+max item level: 300
+base item level: 80
+amount of items allowed: 7
+scaling percent per level: 3
+disabled enchantments:
+  - WATER_WORKER
+  - LOOT_BONUS_MOBS
+  - LOOT_BONUS_BLOCKS
+  - SILK_TOUCH
+  - DURABILITY
+  - LUCK
+  - MENDING
+item drop rate: 50
+rareness weights:
+  COMMON: 60
+  UNCOMMON: 20
+  RARE: 15
+  LEGENDARY: 10
+  EXOTIC: 0
